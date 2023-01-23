@@ -9,3 +9,5 @@ variable "subnet1_1" {}
 variable "subnet1_2" {}
 variable "subnet2_1" {}
 variable "subnet2_2" {}
+
+variable "igw_name" {}

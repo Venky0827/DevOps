@@ -5,6 +5,7 @@ resource "aws_vpc" "VPC1" {
         Name = "vpc_name1"
         Owner = "Venkatesh Bandaru"
     }
+    depends_on = [aws_s3_bucket.devopsb14terraform]
 }
 
 resource "aws_vpc" "VPC2" {

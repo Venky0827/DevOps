@@ -1,6 +1,7 @@
 # CMDS --------------------
 
 * terraform init                         -------- terraform starts
+* terraform init -backend-config=backend.json ------- refers backend.json file
 * terraform plan --var-file file name    -------- dry run & specify .tfvars file name
 * terraform apply                       --------  starts building resources and enter yes
 * terraform apply --auto-approve        --------  starts building resources
