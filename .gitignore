@@ -1,3 +1,5 @@
-Terraform/terraform.tfvars
-Terraform/.terraform
+terraform.tfvars
+.terraform
 backend.json
+terraform.tfstate
+terraform.tfstate.backup
