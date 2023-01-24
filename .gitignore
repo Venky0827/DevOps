@@ -1,2 +1,3 @@
 Terraform/terraform.tfvars
 Terraform/.terraform
+backend.json
