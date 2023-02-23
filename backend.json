@@ -1,7 +1,5 @@
 {
-    "comment":"These keys used to check state file from backend s3 bucket mentioned terraform backend config.",
-
     "access_key" : "xxxx",
-    "secret_key" : "xxxx",
+    "secret_key" : "yyyy",
     "region" : "us-east-1"
 }

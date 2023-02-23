@@ -1,8 +1,9 @@
 provider "aws" {
   # these keys is used to create resources by accessing your account
-  
+
   access_key = var.access_key    
   secret_key = var.secret_key
+  version = "4.51.0"
   region     = var.regions
 }
 

@@ -8,7 +8,7 @@ variable "vpc_name" {}
 variable "cidr_block" {}
 
 variable "public_cidrs" {}
-variable "private_cidrs" {}
+# variable "private_cidrs" {}
 
 #==================--------- Instances -------================
-variable "amis" {}
+# variable "amis" {}
